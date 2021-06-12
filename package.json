@@ -1,0 +1,18 @@
+{
+  "name": "edu_college",
+  "version": "1.0.0",
+  "description": "小学到大学课程学习笔记",
+  "main": "index.js",
+  "scripts": {
+    "serve": "docsify serve ./",
+    "dev": "docsify serve ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dwzteam/edu_college.git"
+  },
+  "author": "dwzteam",
+  "license": "MIT",
+  "dependencies": {}
+}

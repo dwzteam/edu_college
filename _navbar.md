@@ -1,0 +1,11 @@
+- 数学
+  - [数学公式](math/note.md)
+- 语文
+  - [语文笔记](chinese/note.md)
+- 英语
+  - [英语笔记](english/note.md)
+- 科学
+  - [科学笔记](science/note.md)
+- 其它
+  - [7788 食材网](other/7788sc.md)
+  - [Markdown 手册](other/markdown.md)
