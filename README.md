@@ -14,6 +14,8 @@ npm i docsify-cli -g
 
 ```bash
 npm run serve
+// or
+npm run dev
 ```
 
 当提示`Listening at http://localhost:3000`时，表示服务启动成功。
