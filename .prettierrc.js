@@ -1,6 +1,6 @@
 module.exports = {
 	useTabs: true,
-	tabWidth: 2, // tab 占据两个空格
+	tabWidth: 4, // tab 占据两个空格
 	semi: true, // 语句结尾的分号
 	singleQuote: true, // 单引号
 	trailingComma: 'none',
