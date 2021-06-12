@@ -11,5 +11,5 @@
 - 科学
   - [科学笔记](science/note.md)
 - 其它
-  - [7788 食材网](other/7788sc.md)
+  <!-- - [7788 食材网](other/7788sc.md) -->
   - [Markdown 手册](other/markdown.md)
