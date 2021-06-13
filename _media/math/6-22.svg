@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="312px" height="34px" viewBox="0 0 312 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图6-22">
+            <text id="A" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#000000" fill-opacity="0.5">
+                <tspan x="0" y="33">A</tspan>
+            </text>
+            <text id="C" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#000000" fill-opacity="0.5">
+                <tspan x="99" y="33">C</tspan>
+            </text>
+            <text id="P" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#000000" fill-opacity="0.5">
+                <tspan x="150" y="33">P</tspan>
+            </text>
+            <text id="D" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#000000" fill-opacity="0.5">
+                <tspan x="199" y="33">D</tspan>
+            </text>
+            <text id="B" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#000000" fill-opacity="0.5">
+                <tspan x="299" y="33">B</tspan>
+            </text>
+            <line x1="5.5" y1="10.5" x2="306.5" y2="10.5" id="直线" stroke="#00BBFF" stroke-width="2" stroke-linecap="square"></line>
+            <line x1="6" y1="11" x2="6" y2="1" id="A" stroke="#00BBFF" stroke-width="2" stroke-linecap="square"></line>
+            <line x1="306" y1="11" x2="306" y2="1" id="B" stroke="#00BBFF" stroke-width="2" stroke-linecap="square"></line>
+            <line x1="156" y1="11" x2="156" y2="1" id="P" stroke="#00BBFF" stroke-width="2" stroke-linecap="square"></line>
+            <line x1="106" y1="11" x2="106" y2="1" id="C" stroke="#00BBFF" stroke-width="2" stroke-linecap="square"></line>
+            <line x1="206" y1="11" x2="206" y2="1" id="D" stroke="#00BBFF" stroke-width="2" stroke-linecap="square"></line>
+        </g>
+    </g>
+</svg>
