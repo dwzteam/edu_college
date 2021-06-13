@@ -9,8 +9,8 @@
 	<meta name="description" content="DWZ 移动端开发文档" />
 	<meta name="keywords" content="DWZ 移动端开发文档" />
 
-	<!-- <link rel="stylesheet" href="//unpkg.com/docsify/themes/vue.css"> -->
-	<link rel="stylesheet" href="cdn/themes/vue.css">
+	<link rel="stylesheet" href="//unpkg.com/docsify/themes/vue.css">
+	<!-- <link rel="stylesheet" href="cdn/themes/vue.css"> -->
 	<!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/buble.css"> -->
 	<!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/dark.css"> -->
 	<!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/pure.css"> -->
@@ -85,12 +85,19 @@
 				noData: {
 					'/': '找不到结果'
 				},
-				paths: 'auto',
-				depth: 3,
-				pathNamespaces: ['/docs'],
-				hideOtherSidebarContent: true,
+				depth: 4,
+
+				paths: [
+					'/',
+					'/docs/math/7a',
+					'/docs/math/7b',
+					'/docs/science/7a',
+					'/docs/science/7b',
+					'/docs/other/markdown'
+				],
+				// hideOtherSidebarContent: true,
 				placeholder: {
-					'/': '输入您的关键词进行搜索'
+					'/': '输入搜索关键词'
 				}
 			},
 			repo: 'https://github.com/dwzteam/edu_college.git',
@@ -128,13 +135,25 @@
 						return this.origin.code.apply(this, arguments);
 					}
 				}
+			},
+			scrollToTop: {
+				auto: true,
+				text: 'Top',
+				right: 15,
+				bottom: 15,
+				offset: 500
 			}
+
 		}
 	</script>
 	<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 	<script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
 	<script src="//unpkg.com/docsify-copy-code"></script>
 	<script src="//unpkg.com/docsify/lib/plugins/emoji.js"></script>
+	<!-- <script src="cdn/js/docsify.min.js"></script>
+	<script src="cdn/js/search.min.js"></script>
+	<script src="cdn/js/docsify-copy-code.min.js"></script>
+	<script src="cdn/js/emoji.js"></script> -->
 
 
 	<!-- 添加额外的语法支持需要通过CDN添加相应的语法文件, 默认支持：markup, html, xml, svg, mathml, ssml, atom, rss, css, clike, javascript, js -->
@@ -147,6 +166,8 @@
 	<!-- CDN files for docsify-katex 支持公式 -->
 	<script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
 	<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css" />
+
+	<script src="//unpkg.com/docsify-scroll-to-top/dist/docsify-scroll-to-top.min.js"></script>
 
 	<script src="cdn/js/navbar.js"></script>
 </body>
