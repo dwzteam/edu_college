@@ -1,5 +1,6 @@
 # 学习笔记介绍
 
+- 请点击`顶部导航栏`，打开不同科目的学习笔记
 - 本学习笔记使用 docsify + markdown 编写
 - 所有的代码和文档都已开源：https://github.com/dwzteam/edu_college.git
 - 有兴趣的同学可能加入到开源项目中来，一起编写学习笔记
