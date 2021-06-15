@@ -2,11 +2,11 @@
 
 我们在用 markdown 写文档时有时候少不了需要插入一些公式，然而 markdown 公式输入远没有 word 这么直观，有很多复杂的格式和符号的英语缩写需要记忆，经常是刚用完，过几天不用又都忘记了，因此在这里将数学公式的 Latex 编辑方式做一个整理，以方便自己和读者今后使用。
 
-- [markdown 支持数学公式插件 docsify-katex](https://upupming.site/docsify-katex/docs/#/supported)
-- [markdown 数学公式语法](https://www.jianshu.com/p/e74eb43960a1)
-- [markdown 数学公式速查 1](https://blog.csdn.net/jyfu2_12/article/details/79207643)
-- [markdown 数学公式速查 2](https://zhenglei.blog.csdn.net/article/details/111057967)
-- [maths-symbols.pdf](https://mirrors.tuna.tsinghua.edu.cn/CTAN/info/symbols/math/maths-symbols.pdf)
+-   [markdown 支持数学公式插件 docsify-katex](https://upupming.site/docsify-katex/docs/#/supported)
+-   [markdown 数学公式语法](https://www.jianshu.com/p/26774d03ba1f)
+-   [markdown 数学公式速查 1](https://blog.csdn.net/jyfu2_12/article/details/79207643)
+-   [markdown 数学公式速查 2](https://zhenglei.blog.csdn.net/article/details/111057967)
+-   [maths-symbols.pdf](https://mirrors.tuna.tsinghua.edu.cn/CTAN/info/symbols/math/maths-symbols.pdf)
 
 > ### 数学公式示例
 
@@ -189,7 +189,7 @@ $$
 $$
 f(x) = \left\{
   \begin{array}{lr}
-    x^2 & : x < 0\\
+    x^2 & : x < 0 \\
     x^3 & : x \ge 0
   \end{array}
 \right.
@@ -207,10 +207,20 @@ $$
 
 $$
 \left\{
-\begin{array}{c}
+\begin{aligned}
     a_1x+b_1y+c_1z=d_1 \\
     a_2x+b_2y+c_2z=d_2 \\
-    a_3x+b_3y+c_3z=d_3
+    a_3x+c_3z=d_3
+\end{aligned}
+\right.
+$$
+
+$$
+\left\{
+\begin{array}{lr}
+    a_1x+b_1y+c_1z=d_1 　& ①\\
+    a_2x+b_2y+c_2z=d_2 　& ②\\
+    a_3x+c_3z=d_3　& ③
 \end{array}
 \right.
 $$
