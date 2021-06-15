@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="365px" height="252px" viewBox="0 0 365 252" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>1-6</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-6" transform="translate(1.000000, -6.000000)">
+            <g id="圆弧" transform="translate(88.210959, 63.187815)" stroke="#979797">
+                <path d="M38.4101348,34.8121845 C22.1026468,39.5058476 12.4899476,34.8391809 9.57203717,20.8121845" id="路径"></path>
+                <path d="M44.6271387,18.8121845 C28.3196507,23.5058476 18.7069515,18.8391809 15.789041,4.81218454" id="路径备份-2" transform="translate(30.208090, 12.694785) rotate(-180.000000) translate(-30.208090, -12.694785) "></path>
+                <path d="M120.627139,134.812185 C106.040779,138.60906 97.0185741,134.038096 93.5605254,121.099294" id="路径备份"></path>
+                <path d="M123.855654,116.525075 C109.269294,120.32195 100.24709,115.750987 96.789041,102.812185" id="路径备份-3" transform="translate(110.322348, 110.314686) rotate(-180.000000) translate(-110.322348, -110.314686) "></path>
+                <path d="M9.57203717,1.42108547e-14 C1.01752066,4.54145636 -1.80312608,11.3121845 1.11009694,20.3121845" id="路径-2"></path>
+                <path d="" id="路径-3"></path>
+                <path d="" id="路径-4"></path>
+                <path d="M45.289041,42.3121845 C56.6223744,38.4889846 60.6223744,31.1556512 57.289041,20.3121845" id="路径-5"></path>
+                <path d="M91.4237314,97.6296792 C82.1468268,102.194834 79.3071667,110.018039 82.9047511,121.099294" id="路径-6"></path>
+                <path d="M135.815958,116.812185 C126.539054,121.377339 123.699394,129.200544 127.296978,140.281799" id="路径-6备份" transform="translate(130.802500, 128.546992) rotate(-180.000000) translate(-130.802500, -128.546992) "></path>
+            </g>
+            <text id="图-1-6" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#000000" fill-opacity="0.5">
+                <tspan x="151" y="256">图 1-6</tspan>
+            </text>
+            <text id="l2" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#000000" fill-opacity="0.5">
+                <tspan x="348" y="165">l2</tspan>
+            </text>
+            <text id="l1" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#000000" fill-opacity="0.5">
+                <tspan x="313" y="91">l1</tspan>
+            </text>
+            <text id="1" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.5">
+                <tspan x="126" y="64">1</tspan>
+            </text>
+            <text id="2" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.5">
+                <tspan x="77" y="70">2</tspan>
+            </text>
+            <text id="3" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.5">
+                <tspan x="95" y="113">3</tspan>
+            </text>
+            <text id="6" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.5">
+                <tspan x="156" y="175">6</tspan>
+            </text>
+            <text id="4" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.5">
+                <tspan x="150" y="107">4</tspan>
+            </text>
+            <text id="5" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.5">
+                <tspan x="205" y="165">5</tspan>
+            </text>
+            <text id="8" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.5">
+                <tspan x="228" y="204">8</tspan>
+            </text>
+            <text id="7" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#000000" fill-opacity="0.5">
+                <tspan x="182" y="215">7</tspan>
+            </text>
+            <text id="l3" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#000000" fill-opacity="0.5">
+                <tspan x="52" y="21">l3</tspan>
+            </text>
+            <line x1="0.5" y1="83.5" x2="300.5" y2="83.5" id="l1" stroke="#00AAFF" stroke-width="2" stroke-linecap="square"></line>
+            <line x1="26.2773438" y1="203.695312" x2="337.265625" y2="164.878906" id="l2" stroke="#00AAFF" stroke-width="2" stroke-linecap="square"></line>
+            <line x1="68.5" y1="27.5" x2="240.5" y2="233.5" id="l3" stroke="#00AAFF" stroke-width="2" stroke-linecap="square"></line>
+        </g>
+    </g>
+</svg>
