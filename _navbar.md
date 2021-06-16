@@ -29,5 +29,6 @@
 
 -   其它
     -   [Markdown 手册](/docs/other/markdown)
-    -   [VS Code 配制](doc/vscode/settings)
-    -   [VS Code 快捷键](doc/vscode/keyboard)
+    -   [常用工具](docs/other/tools)
+    -   [VS Code 配制](docs/vscode/settings)
+    -   [VS Code 快捷键](docs/vscode/keyboard)
