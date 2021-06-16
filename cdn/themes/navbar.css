@@ -5,7 +5,10 @@
 .markdown-section {
 	max-width: 90%;
 }
-
+.github-corner svg {
+	width: 50px;
+	height: 50px;
+}
 @media screen and (max-width: 768px) {
 	.sidebar-toggle-button {
 		background-color: rgba(255, 255, 255, 0.8);
