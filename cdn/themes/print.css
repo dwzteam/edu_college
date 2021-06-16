@@ -1,0 +1,9 @@
+.app-nav, .cover, .github-corner, .sidebar-toggle, .sidebar, .dwz-btn-print,
+.markdown-section > hr, .markdown-section hr + p {
+    display: none;
+}
+
+.content {
+    left: 0;
+    padding: 0;
+}

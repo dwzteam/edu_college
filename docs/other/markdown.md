@@ -4,6 +4,7 @@
 
 -   [markdown 支持数学公式插件 docsify-katex](https://upupming.site/docsify-katex/docs/#/supported)
 -   [markdown 数学公式语法](https://www.jianshu.com/p/26774d03ba1f)
+-   [markdown 公式、符号总结](https://blog.csdn.net/weixin_42782150/article/details/104878759)
 -   [markdown 数学公式速查 1](https://blog.csdn.net/jyfu2_12/article/details/79207643)
 -   [markdown 数学公式速查 2](https://zhenglei.blog.csdn.net/article/details/111057967)
 -   [maths-symbols.pdf](https://mirrors.tuna.tsinghua.edu.cn/CTAN/info/symbols/math/maths-symbols.pdf)

@@ -16,6 +16,7 @@
 	<!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/pure.css"> -->
 	<!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/dolphin.css"> -->
 	<link rel="stylesheet" href="cdn/themes/navbar.css">
+	<link rel="stylesheet" href="cdn/themes/print.css" media="print">
 	<style type="text/css">
 		/* img[data-origin] {
 			max-width: 800px;
@@ -65,7 +66,7 @@
 				margin: 5px;
 			}
 		}
-
+		
 		.katex {
 			color: blue;
 		}
@@ -75,11 +76,14 @@
 
 <body>
 	<div data-app id="app">Please wait...</div>
-	<button class="navbar-toggle">
+	<button class="navbar-toggle" type="button">
 		<span></span>
 		<span></span>
 		<span></span>
 	</button>
+
+	<button class="dwz-btn-print" type="button" onclick="window.print();">打印</button>
+
 	<script>
 		window.$docsify = {
 			el: '#app',
@@ -138,7 +142,7 @@
 						return html +
 							'\n----\n' +
 							'更新于：{docsify-updated} '
-					})
+					});
 				}
 			],
 			markdown: {
