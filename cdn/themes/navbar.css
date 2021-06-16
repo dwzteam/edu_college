@@ -18,11 +18,17 @@
 	color: blue;
 	z-index: 1000;
 }
+.dwz-btn-print span {
+	display: none;
+}
 
 @media screen and (max-width: 768px) {
 	.dwz-btn-print {
 		top: 10px;
 		right: 40px;
+	}
+	.dwz-btn-print span {
+		display: inline;
 	}
 	.sidebar-toggle-button {
 		background-color: rgba(255, 255, 255, 0.8);
