@@ -39,6 +39,9 @@ body {
 .github-corner {
 	display: none;
 }
+footer {
+	color: #999;
+}
 @media screen and (max-width: 768px) {
 	.dwz-btn-print {
 		top: 10px;
