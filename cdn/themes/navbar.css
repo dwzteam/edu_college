@@ -40,7 +40,7 @@ body {
 	display: none;
 }
 footer {
-	color: #999;
+	color: #ccc;
 }
 @media screen and (max-width: 768px) {
 	.dwz-btn-print {
