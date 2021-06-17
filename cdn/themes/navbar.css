@@ -13,7 +13,7 @@ body {
 	height: 40px;
 }
 
-.dwz-btn-print, .dwz-btn-print-pdf {
+.dwz-btn-print {
 	position: absolute;
 	top: 32px;
 	right: 20px;
@@ -21,19 +21,33 @@ body {
 	color: blue;
 	z-index: 1000;
 }
-.dwz-btn-print-pdf {
+.dwz-btn-print span {
 	display: none;
 }
-
+.dwz-btn-print-pdf {
+	position: fixed;
+	top: 0px;
+	right: 0px;
+	border: none;
+	color: blue;
+	z-index: 1001;
+	width: 40px;
+	height: 40px;
+	background: url('img/PDF.svg') center center no-repeat;
+	background-size: 100% 100%;
+}
+.github-corner {
+	display: none;
+}
 @media screen and (max-width: 768px) {
 	.dwz-btn-print {
-		display: none;
-	}
-	.dwz-btn-print-pdf {
-		display: block;
 		top: 10px;
 		right: 40px;
 	}
+	.dwz-btn-print span {
+		display: inline;
+	}
+
 	.sidebar-toggle-button {
 		background-color: rgba(255, 255, 255, 0.8);
 	}
