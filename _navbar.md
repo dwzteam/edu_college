@@ -12,6 +12,8 @@
 
 -   科学
 
+    -   [六年级上](/docs/science/6a)
+    -   [六年级下](/docs/science/6b)
     -   [七年级上](/docs/science/7a)
     -   [七年级下](/docs/science/7b)
     -   [八年级上](/docs/science/8a)
