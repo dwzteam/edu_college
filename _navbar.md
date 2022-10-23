@@ -9,6 +9,7 @@
     -   [八年级下](/docs/math/8b)
     -   [九年级上](/docs/math/9a)
     -   [九年级下](/docs/math/9b)
+    -   [高等数学(一)](/docs/math/h1)
 
 -   科学
 
