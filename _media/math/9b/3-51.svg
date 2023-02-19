@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="134px" height="168px" viewBox="0 0 134 168" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>3-51</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" transform="translate(0.000000, -4.000000)">
+            <ellipse id="椭圆形" stroke="#00AAFF" stroke-width="2" cx="73.5" cy="148.5" rx="59.5" ry="22.5"></ellipse>
+            <path d="M73,25.3741576 L73,147 L14.5895875,147 L73,25.3741576 Z" id="三角形" stroke="#00AAFF" stroke-width="2" fill-opacity="0.4" fill="#00AAFF"></path>
+            <line x1="74" y1="24" x2="132" y2="145" id="直线" stroke="#00AAFF" stroke-width="2" stroke-linecap="square"></line>
+            <text id="A" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="70" y="13">A</tspan>
+            </text>
+            <text id="B" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="0" y="149">B</tspan>
+            </text>
+            <text id="C" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="78" y="148">C</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

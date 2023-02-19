@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="137px" height="168px" viewBox="0 0 137 168" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>3-45</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组">
+            <text id="D" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="0" y="33">D</tspan>
+            </text>
+            <text id="C" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="78" y="33">C</tspan>
+            </text>
+            <text id="B" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="78" y="145">B</tspan>
+            </text>
+            <text id="A" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="1" y="144">A</tspan>
+            </text>
+            <rect id="矩形" stroke="#00AAFF" stroke-width="2" fill-opacity="0.42" fill="#00AAFF" x="13" y="30" width="61" height="109"></rect>
+            <ellipse id="椭圆形" stroke="#00AAFF" stroke-width="2" cx="74.5" cy="139.5" rx="61.5" ry="27.5"></ellipse>
+            <ellipse id="椭圆形" stroke="#00AAFF" stroke-width="2" cx="74.5" cy="28.5" rx="61.5" ry="27.5"></ellipse>
+            <line x1="136" y1="30" x2="136" y2="138" id="直线" stroke="#00AAFF" stroke-width="2" stroke-linecap="square"></line>
+        </g>
+    </g>
+</svg>
