@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="132px" height="44px" viewBox="0 0 132 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>9a</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组">
+            <line x1="4.5" y1="5.5" x2="126.5" y2="5.5" id="直线" stroke="#00AAFF" stroke-linecap="square"></line>
+            <line x1="4.5" y1="5.5" x2="4.5" y2="0.5" id="直线-2" stroke="#00AAFF" stroke-linecap="square"></line>
+            <line x1="75.5" y1="5.5" x2="75.5" y2="0.5" id="直线-2" stroke="#00AAFF" stroke-linecap="square"></line>
+            <line x1="126.5" y1="5.5" x2="126.5" y2="0.5" id="直线-2" stroke="#00AAFF" stroke-linecap="square"></line>
+            <text id="A" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="0" y="19">A</tspan>
+            </text>
+            <text id="图4-5" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="48" y="40">图4-5</tspan>
+            </text>
+            <text id="P" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="72" y="19">P</tspan>
+            </text>
+            <text id="B" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="123" y="19">B</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
